@@ -1,0 +1,17 @@
+{
+  "name": "Captain",
+  "version": "1.0.0",
+  "description": "Discord Bot to manage server.",
+  "main": "index.js",
+  "scripts": {
+    "update": "npm update"
+  },
+  "author": "Mehdi Alaoui",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "moment": "^2.19.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
